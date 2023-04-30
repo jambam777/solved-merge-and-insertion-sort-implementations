@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-merge-and-insertion-sort-implementations
+<br>
+<p class="ui header product-top-header" title="Merge and Insertion Sort Implementations Solution">MA 5CPTS 223For this micro assignment, you must complete the Merge Sort implementation in MergeSort.cpp. You may optionally implement InsertionSort for extra credit.GradingYour submission will be graded based on the following:[10] Your solution builds, does not cause any runtime issues, and passes all test cases[4] Your solution contains a working Insertion Sort
